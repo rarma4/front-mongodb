@@ -23,7 +23,7 @@
         width: 400px;
         margin-bottom: 20px;
 
-        @media screen and (max-width: 390px) {
+        @media screen and (max-width: 450px) {
             max-width: 90%;
         }
     }
@@ -65,7 +65,7 @@
         padding: 20px;
 
 
-        @media screen and (max-width: 390px) {
+        @media screen and (max-width: 450px) {
             max-width: 90%;
         }
 
